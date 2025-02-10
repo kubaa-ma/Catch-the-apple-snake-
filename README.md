@@ -1,4 +1,4 @@
-Catch the appke is a clone of classic game snake created in C using the Raylib library
+Catch the apple is a clone of classic game snake created in C using the Raylib library
 
 ## Key Features
 - **Eating apples and growing** The game is not easy and also your snake sometimes don’t do what you wan’t
